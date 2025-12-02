@@ -77,7 +77,7 @@ AI_LLM_Integration:
 #### 🗓️ Crew Scheduling Platform
 Production web application with drag-and-drop interface managing construction crews. Integrated with Slack API for real-time notifications. Mobile-optimized for field use.
 - **Tech:** Google Apps Script, JavaScript, HTML/CSS, Slack API
-- **Impact:** Reduced scheduling time from 4 hours to 15 minutes daily
+- **Impact:** Reduced scheduling time from 4 hours per week to 15 minutes daily
 
 #### 📦 Plant Inventory Automation
 Automated inventory management system processing 500+ items with multi-API data enrichment. Includes web scraping with bot detection handling.
