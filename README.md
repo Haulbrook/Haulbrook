@@ -2,10 +2,9 @@
 <h3 align="center">Automation Developer | Google Apps Script Specialist | API Integration</h3>
 
 <p align="center">
-  <a href="mailto:Haulbrookai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="(https://www.linkedin.com/in/trey-haulbrook-b8183539a)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:Haulbrooka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/trey-haulbrook-b8183539a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
 ---
 
 ### 🚀 About Me
